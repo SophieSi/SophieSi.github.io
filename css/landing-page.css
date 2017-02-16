@@ -35,7 +35,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background-color: black; 
+    /*background-color: black; */
+    background-image: url("../img/headimg2.jpg");
+    opacity:0.9;
     background-size: cover;
 }
 .intro-header p{
@@ -99,7 +101,7 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #ffffff;
 }
 
 .content-section-b {
